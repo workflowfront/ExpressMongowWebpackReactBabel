@@ -1,0 +1,1 @@
+"prestart": "webpack --watch --mode development",
